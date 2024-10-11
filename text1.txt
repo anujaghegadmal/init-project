@@ -9,3 +9,5 @@ This edit is to "list the changes"
 This change is on b2 branch
 
 This change is on b3 branch
+
+this change is for "git diff"
